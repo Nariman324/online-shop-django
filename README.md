@@ -2,7 +2,7 @@
 ![Screenshot 2022-01-09 at 17-04-55 Django Online Shop](https://user-images.githubusercontent.com/71011395/148684469-79bfdb07-efa0-4dde-ad76-1f3277f833e6.png)
 
 
-This project is a simple but usable online shop written with Django. The app provides a custom dashboard to manage products and orders. Users can like a product, add it to the cart, and proceed to checkout. Order processing is supported, but the payment is handled using a fake pay system.
+This project is a simple but usable online shop written with Django. The app provides a custom dashboard to manage products and orders. Users can like a  to the cart, and proceed to checkout. Order processing is supported, but the payment is handled using a fake pay system.
 
 [Preview](#app-preview)
 
@@ -27,12 +27,7 @@ Managers can access all the features available to regular users, along with addi
 - **Add New Category**: Managers have the ability to create new categories for products.
 - **Access to Orders**: Managers can view and manage all orders and order items.
 
-## Technologies Used
 
-- Python 3
-- Django
-- Bootstrap
-- SQLite3 database
 
 ## How to Run the Application
 
